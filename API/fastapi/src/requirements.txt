@@ -1,0 +1,9 @@
+fastapi
+pydantic
+starlette
+uvicorn
+neo4j
+
+# dev
+pytest
+requests
